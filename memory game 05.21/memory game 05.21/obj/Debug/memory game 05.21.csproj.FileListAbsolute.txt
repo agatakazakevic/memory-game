@@ -1,0 +1,19 @@
+C:\Users\Agata Kazakevič\Desktop\memory game 05.21\memory game 05.21\bin\Debug\memory game 05.21.exe.config
+C:\Users\Agata Kazakevič\Desktop\memory game 05.21\memory game 05.21\bin\Debug\memory game 05.21.exe
+C:\Users\Agata Kazakevič\Desktop\memory game 05.21\memory game 05.21\bin\Debug\memory game 05.21.pdb
+C:\Users\Agata Kazakevič\Desktop\memory game 05.21\memory game 05.21\obj\Debug\memory game 05.21.csprojAssemblyReference.cache
+C:\Users\Agata Kazakevič\Desktop\memory game 05.21\memory game 05.21\obj\Debug\memory_game_05._21.Form1.resources
+C:\Users\Agata Kazakevič\Desktop\memory game 05.21\memory game 05.21\obj\Debug\memory_game_05._21.Properties.Resources.resources
+C:\Users\Agata Kazakevič\Desktop\memory game 05.21\memory game 05.21\obj\Debug\memory game 05.21.csproj.GenerateResource.cache
+C:\Users\Agata Kazakevič\Desktop\memory game 05.21\memory game 05.21\obj\Debug\memory game 05.21.exe
+C:\Users\Agata Kazakevič\Desktop\memory game 05.21\memory game 05.21\obj\Debug\memory game 05.21.pdb
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\bin\Debug\memory game 05.21.exe.config
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\bin\Debug\memory game 05.21.exe
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\bin\Debug\memory game 05.21.pdb
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\obj\Debug\memory game 05.21.csprojAssemblyReference.cache
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\obj\Debug\memory_game_05._21.Form1.resources
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\obj\Debug\memory_game_05._21.Properties.Resources.resources
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\obj\Debug\memory game 05.21.csproj.GenerateResource.cache
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\obj\Debug\memory game 05.21.csproj.CoreCompileInputs.cache
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\obj\Debug\memory game 05.21.exe
+C:\Users\Agata Kazakevič\Desktop\Agata Kazakevič\svarbus darbai\NNKKM darbai\nkkm c#\memory game 05.21\memory game 05.21\obj\Debug\memory game 05.21.pdb
